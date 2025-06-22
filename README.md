@@ -5,6 +5,7 @@ PriviDesk AI is a smart, web-based employee sentiment dashboard designed to prom
 It allows employees to anonymously submit daily feedback about their mood, helping organizations track department-wise sentiments and proactively address burnout.
 
 🌱Why This Project?
+
 In the fast-paced IT sector, mental health is often overlooked.
 PriviDesk AI is a step towards creating a more empathetic workspace by enabling anonymous, sentiment-based feedback to help HR detect burnout trends early.
 
