@@ -1,7 +1,7 @@
 PriviDesk AI
 
 
-PriviDesk AI is a smart, web-based employee sentiment dashboard designed to promote mental health awareness in the IT industry.
+PriviDesk AI is a smart, web-based **employee sentiment dashboard powered by Natural Language Processing (NLP).
 It allows employees to anonymously submit daily feedback about their mood, helping organizations track department-wise sentiments and proactively address burnout.
 
 🌱Why This Project?
