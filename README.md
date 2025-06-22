@@ -41,12 +41,19 @@ PriviDesk AI is a step towards creating a more empathetic workspace by enabling 
 
 
 How to Run Locally
+
 1.Clone the repository:
+
 git clone https://github.com/shahinasalimm/PriviDesk-AI.git
 cd PriviDesk-AI
+
 2.Install dependencies:
+
 pip install -r requirements.txt
+
 3.Run the Flask app:
+
 python app.py
+
 4.Open your browser and navigate to:
 http://localhost:5000/
