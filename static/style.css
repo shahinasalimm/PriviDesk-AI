@@ -1,0 +1,89 @@
+/* Global Font and Base Styling */
+body {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+    font-family: 'Poppins', sans-serif !important;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Background Classes */
+.bg-gradient, .bg-dashboard {
+    background-color: #0d1117 !important;
+    min-height: 100vh;
+    transition: background-color 0.3s;
+}
+
+/* Card Styling */
+.card {
+    background-color: #161b22 !important;
+    color: #c9d1d9 !important;
+    border: 1px solid #30363d !important;
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 15px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
+}
+
+/* Primary Button */
+.btn-primary {
+    background-color: #0a04ad !important;
+    border: none !important;
+    color: #ffffff !important;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.btn-primary:hover {
+    background-color: #362de5 !important;
+    color: #ffffff !important;
+    box-shadow: 0 0 15px #362de5 !important;
+}
+
+/* Danger Button (Logout) */
+.btn-danger {
+    background-color: #da3633 !important;
+    border: none !important;
+    color: #ffffff !important;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.btn-danger:hover {
+    background-color: #f85149 !important;
+    color: #ffffff !important;
+    box-shadow: 0 0 15px #f85149 !important;
+}
+
+/* Form Controls */
+.form-control, .form-select {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+    border: 1px solid #30363d !important;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    border-radius: 8px;
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: #0d1117 !important;
+    color: #c9d1d9 !important;
+    border-color: #46b3ee !important;
+    box-shadow: 0 0 8px #96adf4 !important;
+}
+
+.text-primary {
+    color: #f6f3f3 !important;
+}
+
+.text-secondary {
+    color: #c9d1d9 !important; 
+}
+
+.text-muted {
+    color: #c9d1d9 !important; 
+}
+
+/* Placeholder Text Color */
+::placeholder {
+    color: #8b949e !important;
+}
