@@ -16,6 +16,14 @@ PriviDesk AI is a step towards creating a more empathetic workspace by enabling 
 - Secure HR login
 - Alerts for potential burnout based on negative sentiment spikes
 
+## 🔧 Tech Stack
+
+- **Backend:** Python, Flask
+- **Frontend:** HTML, CSS, Bootstrap
+- **AI Model:** Hugging Face Sentiment Analysis
+- **Database:** SQLite
+
+
 ## 📸 Screenshots
 
 ### 🔹 Landing Page
@@ -30,14 +38,7 @@ PriviDesk AI is a step towards creating a more empathetic workspace by enabling 
 
 ---
 
-## 🔧 Tech Stack
 
-- **Backend:** Python, Flask
-- **Frontend:** HTML, CSS, Bootstrap
-- **AI Model:** Hugging Face Sentiment Analysis
-- **Database:** SQLite
-
----
 
 
 How to Run Locally
